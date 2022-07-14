@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, sou a Suélen, e atualmente estou estudando para aprimorar minhas skills como  <strong>desenvolvedora Front-end</strong>.<br>
-  Por enquanto, ainda não trabalho formamelnte na área.
+  Por enquanto, ainda não trabalho formalmente na área.
 </p>
 
 <p align="left">
